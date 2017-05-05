@@ -1,0 +1,46 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1">
+    <Button
+        p1:text="FACULTY OF ENGINEERING"
+        p1:layout_width="175dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/button1" />
+    <Button
+        p1:text="FACULTY OF COMMUNICATION"
+        p1:layout_width="175dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/button1"
+        p1:layout_marginTop="120dp" />
+    <Button
+        p1:text="FACULTY OF EDUCATION"
+        p1:layout_width="175dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/button1"
+        p1:layout_alignParentRight="true" />
+    <Button
+        p1:text="FACULTY OF ARCHITECTURE"
+        p1:layout_width="175dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/button1"
+        p1:layout_marginTop="60dp"
+        p1:layout_alignParentRight="true" />
+    <Button
+        p1:text="FACULTY OF LAW"
+        p1:layout_width="175dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/button1"
+        p1:layout_marginTop="60dp" />
+    <Button
+        p1:text="FACULTY OF BUSINESS"
+        p1:layout_width="175dp"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/button1"
+        p1:layout_marginLeft="200dp"
+        p1:layout_alignParentRight="true"
+        p1:layout_marginTop="120dp" />
+</RelativeLayout>

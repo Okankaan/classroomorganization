@@ -1,0 +1,190 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:minWidth="25px"
+    p1:minHeight="25px"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/relativeLayout1"
+    p1:background="#B5B5B5">
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="wrap_content"
+        p1:id="@+id/linearLayout2"
+        p1:background="#05041F"
+        p1:padding="30dp">
+        <LinearLayout
+            p1:orientation="horizontal"
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:id="@+id/linearLayout1"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:layout_weight="100"
+            p1:layout_marginBottom="5dp">
+            <TextView
+                p1:text="User ID"
+                p1:id="@+id/textView2"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="85dp"
+                p1:layout_height="wrap_content" />
+            <TextView
+                p1:text=":"
+                p1:id="@+id/textView2"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="wrap_content"
+                p1:layout_height="wrap_content"
+                p1:layout_marginRight="2dp" />
+            <TextView
+                p1:text="lblUserID"
+                p1:id="@+id/lblUserIDMenuR"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="wrap_content"
+                p1:layout_height="wrap_content"
+                p1:layout_weight="70" />
+        </LinearLayout>
+        <LinearLayout
+            p1:orientation="horizontal"
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:id="@+id/linearLayout1"
+            p1:layout_width="match_parent"
+            p1:layout_weight="100"
+            p1:layout_marginBottom="5dp"
+            p1:layout_height="wrap_content">
+            <TextView
+                p1:text="Name"
+                p1:id="@+id/textView2"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="85dp"
+                p1:layout_height="wrap_content" />
+            <TextView
+                p1:text=":"
+                p1:id="@+id/textView2"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="wrap_content"
+                p1:layout_height="wrap_content"
+                p1:layout_marginRight="2dp" />
+            <TextView
+                p1:text="lblUserName"
+                p1:id="@+id/lblUserNameR"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="wrap_content"
+                p1:layout_height="wrap_content"
+                p1:layout_weight="70" />
+        </LinearLayout>
+        <LinearLayout
+            p1:orientation="horizontal"
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:id="@+id/linearLayout1"
+            p1:layout_width="match_parent"
+            p1:layout_weight="100"
+            p1:layout_marginBottom="5dp"
+            p1:layout_height="wrap_content">
+            <TextView
+                p1:text="Surname"
+                p1:id="@+id/textView2"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="85dp"
+                p1:layout_height="wrap_content" />
+            <TextView
+                p1:text=":"
+                p1:id="@+id/textView2"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="wrap_content"
+                p1:layout_height="wrap_content"
+                p1:layout_marginRight="2dp" />
+            <TextView
+                p1:text="lblUserSurname"
+                p1:id="@+id/lblUserSurnameR"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="wrap_content"
+                p1:layout_height="wrap_content"
+                p1:layout_weight="70" />
+        </LinearLayout>
+        <LinearLayout
+            p1:orientation="horizontal"
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:id="@+id/linearLayout1"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:layout_weight="100">
+            <TextView
+                p1:text="User Type "
+                p1:id="@+id/textView2"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="85dp"
+                p1:layout_height="wrap_content" />
+            <TextView
+                p1:text=":"
+                p1:id="@+id/textView2"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="wrap_content"
+                p1:layout_height="wrap_content"
+                p1:layout_weight="3" />
+            <TextView
+                p1:text="Rectorate Panel"
+                p1:id="@+id/FacultyStaff"
+                p1:textSize="18dp"
+                p1:textColor="#FFF"
+                p1:layout_width="wrap_content"
+                p1:layout_height="wrap_content"
+                p1:layout_weight="70" />
+        </LinearLayout>
+    </LinearLayout>
+    <Button
+        p1:layout_width="300dp"
+        p1:layout_height="75dp"
+        p1:id="@+id/btnClassBasedSearchR"
+        p1:layout_centerHorizontal="true"
+        p1:layout_marginTop="200dp"
+        p1:text="CLASS BASED SEARCH"
+        p1:background="@drawable/cornerbeyaz"
+        p1:textColor="#000"
+        p1:textSize="20dp" />
+    <Button
+        p1:layout_width="300dp"
+        p1:layout_height="75dp"
+        p1:id="@+id/btnTimeSearchR"
+        p1:layout_centerHorizontal="true"
+        p1:layout_marginTop="400dp"
+        p1:text="TIME BASED SEARCH"
+        p1:background="@drawable/cornerbeyaz"
+        p1:textColor="#000"
+        p1:textSize="20dp" />
+    <Button
+        p1:layout_width="300dp"
+        p1:layout_height="75dp"
+        p1:id="@+id/btnEmptySearchR"
+        p1:layout_marginTop="500dp"
+        p1:background="@drawable/cornerbeyaz"
+        p1:textColor="#000"
+        p1:textSize="20dp"
+        p1:layout_centerHorizontal="true"
+        p1:text="SEARCH EMPTY PLACES" />
+    <Button
+        p1:text="COURSE BASED SEARCH"
+        p1:layout_width="300dp"
+        p1:layout_height="75dp"
+        p1:id="@+id/btnCourseSearchR"
+        p1:layout_marginTop="300dp"
+        p1:layout_centerHorizontal="true"
+        p1:background="@drawable/cornerbeyaz"
+        p1:textColor="#000"
+        p1:textSize="23dp" />
+</RelativeLayout>

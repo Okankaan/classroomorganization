@@ -1,0 +1,13 @@
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\GProject.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\Java.Interop.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\Mono.Android.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\mscorlib.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\System.Core.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\System.Data.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\System.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\System.Xml.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\MySql.Data.CF.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\Newtonsoft.Json.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\System.Runtime.Serialization.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\System.ServiceModel.Internals.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Release\android\assets\System.Numerics.dll

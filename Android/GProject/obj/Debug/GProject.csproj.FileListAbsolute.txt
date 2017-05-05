@@ -1,0 +1,165 @@
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\GProject.dll
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\GProject.pdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\GProject.GProject.apk
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\GProject.GProject-Signed.apk
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\MySql.Data.CF.dll
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\GProject.dll
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\GProject.pdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\bin\GProject.GProject.apk
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\res\layout\main.xml
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\res\values\strings.xml
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\res\drawable\icon.png
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\R.cs.flag
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\uploadflags.txt
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\GProject.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\mscorlib.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.Core.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.Data.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.Transactions.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.Xml.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\GProject.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Cagri\documents\visual studio 2015\Projects\GProject\GProject\obj\Debug\GProject.dll.mdb
+C:\GProject\GProject\bin\Debug\GProject.dll
+C:\GProject\GProject\bin\Debug\GProject.pdb
+C:\GProject\GProject\bin\Debug\GProject.GProject.apk
+C:\GProject\GProject\bin\Debug\GProject.GProject-Signed.apk
+C:\GProject\GProject\bin\Debug\MySql.Data.CF.dll
+C:\GProject\GProject\obj\Debug\GProject.dll
+C:\GProject\GProject\obj\Debug\GProject.pdb
+C:\GProject\GProject\obj\Debug\android\bin\GProject.GProject.apk
+C:\GProject\GProject\obj\Debug\res\values\strings.xml
+C:\GProject\GProject\obj\Debug\res\drawable\icon.png
+C:\GProject\GProject\obj\Debug\R.cs.flag
+C:\GProject\GProject\obj\Debug\uploadflags.txt
+C:\GProject\GProject\obj\Debug\res\layout\login_form.xml
+C:\GProject\GProject\obj\Debug\res\layout\menu_form.xml
+C:\GProject\GProject\obj\Debug\res\layout\faculty_form.xml
+C:\GProject\GProject\bin\Debug\GProject.dll.mdb
+C:\GProject\GProject\bin\Debug\Java.Interop.dll.mdb
+C:\GProject\GProject\bin\Debug\Mono.Android.dll.mdb
+C:\GProject\GProject\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\GProject\GProject\bin\Debug\mscorlib.dll.mdb
+C:\GProject\GProject\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\GProject\GProject\bin\Debug\System.Core.dll.mdb
+C:\GProject\GProject\bin\Debug\System.Data.dll.mdb
+C:\GProject\GProject\bin\Debug\System.dll.mdb
+C:\GProject\GProject\bin\Debug\System.Net.Http.dll.mdb
+C:\GProject\GProject\bin\Debug\System.Numerics.dll.mdb
+C:\GProject\GProject\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\GProject\GProject\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\GProject\GProject\bin\Debug\System.Transactions.dll.mdb
+C:\GProject\GProject\bin\Debug\System.Xml.dll.mdb
+C:\GProject\GProject\bin\Debug\System.Xml.Linq.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\GProject.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.Core.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.Data.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\GProject\GProject\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\GProject\GProject\obj\Debug\GProject.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\GProject.dll
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\GProject.pdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\GProject.GProject.apk
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\GProject.GProject-Signed.apk
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\MySql.Data.CF.dll
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\GProject.dll
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\GProject.pdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\bin\GProject.GProject.apk
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\login_form.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\values\strings.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\R.cs.flag
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\uploadflags.txt
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\time_tabledaytime.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\time_tableclass.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\drawable\corner.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\drawable\backgorund2.png
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\drawable\timetable.png
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\drawable\cornermavi.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\forgot_form.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\time_tablecourse.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\time_tableempty.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\admin_form.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\admin_form_add.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\drawable\logo_bordered.png
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\drawable\cornerbutton.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\faculty_form.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\drawable\corneracikmavi.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\drawable\background3.jpg
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\drawable\cornerbeyaz.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\rectorate_form.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\time_tableemptyr.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\time_tabledaytimer.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\time_tablecourser.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\time_tableclassr.xml
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\res\layout\admin_form_show.xml
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\GProject.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\Java.Interop.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\Mono.Android.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\Mono.Data.Tds.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\mscorlib.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.ComponentModel.Composition.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.Core.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.Data.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.Net.Http.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.Numerics.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.Runtime.Serialization.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.ServiceModel.Internals.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.Transactions.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.Xml.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\System.Xml.Linq.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\GProject.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\Java.Interop.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\Mono.Android.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\Mono.Data.Tds.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\mscorlib.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.ComponentModel.Composition.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.Core.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.Data.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.Net.Http.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.Numerics.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.Runtime.Serialization.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.ServiceModel.Internals.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.Transactions.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.Xml.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\android\assets\System.Xml.Linq.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\obj\Debug\GProject.dll.mdb
+C:\Users\Cagri\Desktop\GProject\GProject\bin\Debug\GProject.dll.mdb

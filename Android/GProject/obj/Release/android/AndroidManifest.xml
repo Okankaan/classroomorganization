@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android" package="GProject.GProject" android:versionCode="1" android:versionName="1.0" android:installLocation="auto">
+  <!--suppress UsesMinSdkAttributes-->
+  <uses-sdk android:minSdkVersion="16" />
+  <uses-permission android:name="android.permission.INTERNET" />
+  <application android:label="GProject" android:name="android.app.Application" android:allowBackup="true">
+    <activity android:configChanges="orientation|screenSize" android:label="Add User" android:name="md596eb8db177449c2105aea44e9f700268.AdminFormADD" />
+    <activity android:configChanges="orientation|screenSize" android:label="Show Users" android:name="md596eb8db177449c2105aea44e9f700268.AdminFormShow" />
+    <activity android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md596eb8db177449c2105aea44e9f700268.RectorateForm" />
+    <activity android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md596eb8db177449c2105aea44e9f700268.ForgotForm" />
+    <activity android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md596eb8db177449c2105aea44e9f700268.AdminForm" />
+    <activity android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md596eb8db177449c2105aea44e9f700268.LoginForm">
+      <intent-filter>
+        <action android:name="android.intent.action.MAIN" />
+        <category android:name="android.intent.category.LAUNCHER" />
+      </intent-filter>
+    </activity>
+    <activity android:label="Menu Form" android:theme="@android:style/Theme.Black.NoTitleBar.Fullscreen" android:name="md596eb8db177449c2105aea44e9f700268.FacultyForm" />
+    <activity android:configChanges="orientation|screenSize" android:label="Class Based Search" android:name="md596eb8db177449c2105aea44e9f700268.TimeTableClassR" />
+    <activity android:configChanges="orientation|screenSize" android:label="Class Based Search" android:name="md596eb8db177449c2105aea44e9f700268.TimeTableClass" />
+    <activity android:configChanges="orientation|screenSize" android:label="Course Based Search" android:name="md596eb8db177449c2105aea44e9f700268.TimeTableCourseR" />
+    <activity android:configChanges="orientation|screenSize" android:label="Day &amp; Time Based Search" android:name="md596eb8db177449c2105aea44e9f700268.TimeTableDayTimeR" />
+    <activity android:configChanges="orientation|screenSize" android:label="Day &amp; Time Based Search" android:name="md596eb8db177449c2105aea44e9f700268.TimeTableDayTime" />
+    <activity android:configChanges="orientation|screenSize" android:label="Empty Places Based Search" android:name="md596eb8db177449c2105aea44e9f700268.TimeTableEmptyR" />
+    <activity android:configChanges="orientation|screenSize" android:label="Empty Classes Based Search" android:name="md596eb8db177449c2105aea44e9f700268.TimeTableEmpty" />
+    <activity android:configChanges="orientation|screenSize" android:label="Course Based Search" android:name="md596eb8db177449c2105aea44e9f700268.TimeTableCourse" />
+    <provider android:name="mono.MonoRuntimeProvider" android:exported="false" android:initOrder="2147483647" android:authorities="GProject.GProject.mono.MonoRuntimeProvider.__mono_init__" />
+  </application>
+</manifest>

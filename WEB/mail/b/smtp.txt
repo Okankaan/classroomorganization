@@ -1,0 +1,10 @@
+helo example.com
+mail from: suleymanezer@n00ne.xyz
+rcpt to: suleyman.ezer@std.gau.edu.tr
+DATA
+subject: Test Email
+
+Email from php shell
+.
+
+

@@ -1,0 +1,178 @@
+[03-Jan-2017 20:30:53 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 59
+[03-Jan-2017 20:30:53 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 59
+[03-Jan-2017 20:31:14 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Jan-2017 21:06:26 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[03-Jan-2017 21:06:26 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[03-Jan-2017 21:45:10 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[03-Jan-2017 21:45:10 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[03-Jan-2017 21:47:19 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Jan-2017 22:17:45 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nnexyz/public_html/transfer_taketime.php on line 62
+[03-Jan-2017 23:53:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Jan-2017 23:53:36 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 26
+[03-Jan-2017 23:58:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[03-Jan-2017 23:58:43 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 26
+[03-Jan-2017 23:58:53 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 26
+[04-Jan-2017 00:01:56 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 00:01:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 27
+[04-Jan-2017 00:05:21 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 00:05:21 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 27
+[04-Jan-2017 00:07:04 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 00:08:30 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 00:13:41 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:35:33 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:36:37 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:36:37 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 18
+[04-Jan-2017 20:39:43 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:39:43 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 18
+[04-Jan-2017 20:45:16 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:45:16 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 18
+[04-Jan-2017 20:52:09 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:52:09 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 11
+[04-Jan-2017 20:55:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:55:46 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 11
+[04-Jan-2017 20:58:11 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:58:11 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 11
+[04-Jan-2017 20:59:04 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:59:04 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 11
+[04-Jan-2017 20:59:49 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 20:59:49 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 11
+[04-Jan-2017 21:00:40 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 21:00:40 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 12
+[04-Jan-2017 21:02:14 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 21:03:56 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 21:03:56 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 12
+[04-Jan-2017 21:05:51 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 21:05:51 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 12
+[04-Jan-2017 21:06:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 21:06:36 UTC] PHP Fatal error:  Call to a member function query() on null in /home/nnexyz/public_html/transfer_takeduration.php on line 12
+[04-Jan-2017 21:07:42 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 21:08:26 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 21:08:48 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 21:10:36 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[04-Jan-2017 21:11:59 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[06-Jan-2017 10:20:19 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/search_empty_show.php on line 37
+[06-Jan-2017 22:31:23 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[06-Jan-2017 22:31:26 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[07-Jan-2017 10:37:07 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jan-2017 11:34:56 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[07-Jan-2017 11:34:56 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[07-Jan-2017 11:57:46 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jan-2017 11:58:37 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[07-Jan-2017 11:58:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[07-Jan-2017 12:26:14 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jan-2017 12:26:14 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jan-2017 12:26:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jan-2017 12:26:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jan-2017 12:26:24 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jan-2017 12:28:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[07-Jan-2017 12:33:20 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[07-Jan-2017 14:01:31 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[07-Jan-2017 14:07:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[07-Jan-2017 14:07:17 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[07-Jan-2017 16:40:23 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 61
+[07-Jan-2017 16:40:23 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 61
+[07-Jan-2017 16:40:23 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 61
+[07-Jan-2017 16:40:52 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 61
+[07-Jan-2017 16:40:52 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 61
+[07-Jan-2017 16:40:52 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 61
+[07-Jan-2017 16:41:32 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 61
+[07-Jan-2017 16:41:32 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 61
+[07-Jan-2017 16:41:32 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 61
+[07-Jan-2017 16:49:24 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/nnexyz/public_html/xamarin_empty.php on line 79
+[07-Jan-2017 16:49:24 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/nnexyz/public_html/xamarin_empty.php on line 79
+[07-Jan-2017 16:49:24 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/nnexyz/public_html/xamarin_empty.php on line 79
+[07-Jan-2017 16:49:25 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/nnexyz/public_html/xamarin_empty.php on line 79
+[07-Jan-2017 16:49:25 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/nnexyz/public_html/xamarin_empty.php on line 79
+[07-Jan-2017 16:49:25 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/nnexyz/public_html/xamarin_empty.php on line 79
+[07-Jan-2017 16:49:26 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/nnexyz/public_html/xamarin_empty.php on line 79
+[07-Jan-2017 16:49:26 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/nnexyz/public_html/xamarin_empty.php on line 79
+[07-Jan-2017 16:49:26 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 6 given in /home/nnexyz/public_html/xamarin_empty.php on line 79
+[07-Jan-2017 16:49:46 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[07-Jan-2017 17:08:30 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 67
+[07-Jan-2017 17:08:30 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 67
+[07-Jan-2017 17:08:30 UTC] PHP Warning:  json_encode() expects at most 3 parameters, 5 given in /home/nnexyz/public_html/xamarin_empty.php on line 67
+[07-Jan-2017 17:50:40 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:50:40 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:50:40 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:50:40 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:50:40 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:50:40 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:50:58 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:50:58 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:50:58 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:51:05 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:51:05 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:51:05 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:51:23 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:51:23 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:51:23 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:51:43 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:51:43 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[07-Jan-2017 17:51:43 UTC] PHP Warning:  count() expects at least 1 parameter, 0 given in /home/nnexyz/public_html/xamarin_empty.php on line 62
+[08-Jan-2017 01:55:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_facultyclass.php on line 9
+[08-Jan-2017 01:55:32 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_facultyclass.php on line 9
+[08-Jan-2017 02:33:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_timetable.php on line 8
+[08-Jan-2017 03:55:06 UTC] PHP Warning:  mysqli::query(): Empty query in /home/nnexyz/public_html/xamarin_users.php on line 8
+[08-Jan-2017 03:55:06 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_users.php on line 12
+[08-Jan-2017 03:55:17 UTC] PHP Warning:  mysqli::query(): Empty query in /home/nnexyz/public_html/xamarin_users.php on line 8
+[08-Jan-2017 03:55:17 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_users.php on line 12
+[08-Jan-2017 03:55:21 UTC] PHP Warning:  mysqli::query(): Empty query in /home/nnexyz/public_html/xamarin_users.php on line 8
+[08-Jan-2017 03:55:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_users.php on line 12
+[08-Jan-2017 03:55:42 UTC] PHP Warning:  mysqli::query(): Empty query in /home/nnexyz/public_html/xamarin_users.php on line 8
+[08-Jan-2017 03:55:42 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_users.php on line 12
+[08-Jan-2017 03:56:11 UTC] PHP Warning:  mysqli::query(): Empty query in /home/nnexyz/public_html/xamarin_users.php on line 7
+[08-Jan-2017 03:56:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_users.php on line 11
+[08-Jan-2017 03:56:12 UTC] PHP Warning:  mysqli::query(): Empty query in /home/nnexyz/public_html/xamarin_users.php on line 7
+[08-Jan-2017 03:56:12 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_users.php on line 11
+[08-Jan-2017 03:56:27 UTC] PHP Warning:  mysqli::query(): Empty query in /home/nnexyz/public_html/xamarin_users.php on line 7
+[08-Jan-2017 03:56:27 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_users.php on line 11
+[08-Jan-2017 03:56:29 UTC] PHP Warning:  mysqli::query(): Empty query in /home/nnexyz/public_html/xamarin_users.php on line 7
+[08-Jan-2017 03:56:29 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_users.php on line 11
+[08-Jan-2017 10:37:39 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[08-Jan-2017 10:37:39 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[08-Jan-2017 12:20:32 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[08-Jan-2017 12:56:11 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[08-Jan-2017 12:56:11 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 57
+[08-Jan-2017 13:44:54 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Jan-2017 13:59:24 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[08-Jan-2017 15:41:01 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[08-Jan-2017 16:42:48 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[08-Jan-2017 16:42:51 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[08-Jan-2017 19:49:04 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[08-Jan-2017 19:50:32 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 58
+[08-Jan-2017 19:50:32 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 58
+[08-Jan-2017 19:55:10 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Jan-2017 19:56:08 UTC] PHP Deprecated:  Automatically populating $HTTP_RAW_POST_DATA is deprecated and will be removed in a future version. To avoid this warning set 'always_populate_raw_post_data' to '-1' in php.ini and use the php://input stream instead. in Unknown on line 0
+[08-Jan-2017 19:57:11 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_facultyclass.php on line 9
+[08-Jan-2017 19:57:24 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_facultyclass.php on line 9
+[08-Jan-2017 20:02:15 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:26) in /home/nnexyz/public_html/index2.php on line 27
+[08-Jan-2017 20:35:12 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:27) in /home/nnexyz/public_html/index2.php on line 28
+[08-Jan-2017 20:35:39 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:27) in /home/nnexyz/public_html/index2.php on line 28
+[08-Jan-2017 20:36:40 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:27) in /home/nnexyz/public_html/index2.php on line 28
+[08-Jan-2017 20:36:50 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:27) in /home/nnexyz/public_html/index2.php on line 28
+[08-Jan-2017 20:37:00 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:27) in /home/nnexyz/public_html/index2.php on line 28
+[08-Jan-2017 23:56:03 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_class.php on line 9
+[08-Jan-2017 23:56:05 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_class.php on line 9
+[08-Jan-2017 23:56:08 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_class.php on line 9
+[08-Jan-2017 23:56:21 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_class.php on line 9
+[08-Jan-2017 23:56:23 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_class.php on line 9
+[08-Jan-2017 23:56:25 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_class.php on line 9
+[08-Jan-2017 23:57:19 UTC] PHP Warning:  mysqli_fetch_assoc() expects parameter 1 to be mysqli_result, boolean given in /home/nnexyz/public_html/xamarin_class.php on line 9
+[09-Jan-2017 02:45:11 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 02:46:58 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 02:47:02 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 02:47:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 02:47:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 02:47:15 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 02:47:17 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 02:47:23 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 02:49:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 04:11:39 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 04:13:50 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 04:13:54 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 04:14:00 UTC] PHP Fatal error:  Call to a member function fetch_assoc() on boolean in /home/nnexyz/public_html/xamarin_login.php on line 8
+[09-Jan-2017 07:36:36 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 58
+[09-Jan-2017 07:36:36 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 58
+[09-Jan-2017 19:30:06 UTC] PHP Warning:  Cannot modify header information - headers already sent by (output started at /home/nnexyz/public_html/index2.php:27) in /home/nnexyz/public_html/index2.php on line 28
+[09-Jan-2017 20:20:29 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 58
+[09-Jan-2017 20:20:29 UTC] PHP Fatal error:  Call to undefined function editcheck() in /home/nnexyz/public_html/user_edit.php on line 58

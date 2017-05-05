@@ -1,0 +1,117 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:p1="http://schemas.android.com/apk/res/android"
+    p1:orientation="vertical"
+    p1:layout_width="match_parent"
+    p1:layout_height="match_parent"
+    p1:id="@+id/linearLayout1"
+    p1:background="#212121">
+    <LinearLayout
+        p1:orientation="horizontal"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="30dp"
+        p1:id="@+id/linearLayout4"
+        p1:background="#212121"
+        p1:layout_margin="10dp">
+        <TextView
+            p1:text="Class Name :"
+            p1:layout_width="wrap_content"
+            p1:layout_height="match_parent"
+            p1:id="@+id/textView1"
+            p1:textColor="#FFF"
+            p1:textSize="18dp"
+            p1:layout_marginLeft="10dp"
+            p1:paddingTop="2dp" />
+        <Spinner
+            p1:layout_width="match_parent"
+            p1:layout_height="match_parent"
+            p1:id="@+id/comboClassNames" />
+    </LinearLayout>
+    <LinearLayout
+        p1:orientation="horizontal"
+        p1:id="@+id/linearLayout1"
+        p1:weightSum="100"
+        p1:layout_width="match_parent"
+        p1:layout_height="22.0dp"
+        p1:background="#FFF">
+        <TextView
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtView1"
+            p1:layout_weight="14"
+            p1:text="Time"
+            p1:paddingLeft="5dp"
+            p1:paddingBottom="2dp"
+            p1:paddingTop="2dp"
+            p1:textColor="#000" />
+        <TextView
+            p1:text=" MON"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtView2"
+            p1:layout_weight="15"
+            p1:textAlignment="center"
+            p1:textColor="#000" />
+        <TextView
+            p1:text="         TUE"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtView3"
+            p1:layout_weight="14"
+            p1:textColor="#000" />
+        <TextView
+            p1:text="       WED"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtView4"
+            p1:layout_weight="14"
+            p1:textColor="#000" />
+        <TextView
+            p1:text="       THU"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtView5"
+            p1:textColor="#000"
+            p1:layout_weight="14" />
+        <TextView
+            p1:text="       FRI"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtView6"
+            p1:layout_weight="14"
+            p1:textColor="#000" />
+        <TextView
+            p1:text="   SAT"
+            p1:layout_width="match_parent"
+            p1:layout_height="wrap_content"
+            p1:id="@+id/txtView7"
+            p1:layout_weight="14"
+            p1:textColor="#000" />
+        <LinearLayout
+            p1:orientation="horizontal"
+            p1:minWidth="25px"
+            p1:minHeight="25px"
+            p1:layout_width="wrap_content"
+            p1:layout_height="match_parent"
+            p1:id="@+id/linearLayout3" />
+    </LinearLayout>
+    <LinearLayout
+        p1:orientation="vertical"
+        p1:minWidth="25px"
+        p1:minHeight="25px"
+        p1:layout_width="match_parent"
+        p1:layout_height="match_parent"
+        p1:id="@+id/linearLayout2"
+        p1:background="@drawable/TimeTable">
+        <GridView
+            p1:layout_width="match_parent"
+            p1:layout_height="match_parent"
+            p1:horizontalSpacing="-23dp"
+            p1:paddingLeft="-15dp"
+            p1:layout_marginRight="-23dp"
+            p1:numColumns="7"
+            p1:paddingBottom="15dp"
+            p1:id="@+id/gridClass" />
+    </LinearLayout>
+</LinearLayout>
