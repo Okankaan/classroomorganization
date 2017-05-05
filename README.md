@@ -1,4 +1,4 @@
-#Classroom Organization System
+# Classroom Organization System
 
 What is our project?
 
@@ -12,5 +12,7 @@ create,delete,update users and admin can print to any time table of classroms by
 Excel.Admin can see all mails of this system.In faculty panel the responsible staff of faculty
 can add the course to classroms and also can transfer specific hours to another
 faculty.With E-mail module our system send automatic e-mails about classrom changes
-and transfers.Anroid module is for the following the time tables and searches in androis
+and transfers.Anroid module is for the following the time tables and searches in android
 devices.
+
+This project made as Graduation Project in Girne American University. You can find more technical detail in Final Report.
