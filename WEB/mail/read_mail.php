@@ -4,7 +4,7 @@
 include "connection.php";
 session_start();
 
-$imap = imap_open("{ashe.ilgihosting.com:995/pop3/ssl/novalidate-cert}", "nnexyz@ashe.ilgihosting.com", "t6q1d1B0Yu");
+$imap = imap_open("{ashe.ilgihosting.com:995/pop3/ssl/novalidate-cert}", "nnexyz@ashe.ilgihosting.com", "");
 $id=$_SESSION['ID'];
 
 $sql = "SELECT * FROM users WHERE ID = '$id'";
